@@ -29,7 +29,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Esheshwari Kumari | Topmate" width="22px" src="topmate logo.png" />][topmate]
-[<img align="left" alt="Esheshwari Kumari | Email" width="22px" src="email logo.jpg" />][email]
+[<img align="left" alt="Esheshwari Kumari | Email" width="22px" src="email%20logo.jpg" />](mailto:esheshwaritiwari@gmail.com)
 [<img align="left" alt="Esheshwari Kumari | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [topmate]: https://topmate.io/auriseon/
