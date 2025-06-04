@@ -115,7 +115,7 @@
 [<img align="left" alt="Esheshwari Kumari | LinkedIn" width="22px" src="linkedin logo.png" />][linkedin]
 
 [topmate]: https://topmate.io/auriseon/
-[email]: esheshwaritiwari@gmail.com
+[email]: hello.auriseon@outlook.com
 [linkedin]: https://www.linkedin.com/in/msesheshwari/
 
 
