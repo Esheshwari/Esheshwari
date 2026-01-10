@@ -96,7 +96,7 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 
-## GitHub Stats:
+## GitHub Statistics
 
 ![](https://github-readme-stats.vercel.app/api?username=Esheshwari&theme=gruvbox_light&hide_border=false)<br/>
 
