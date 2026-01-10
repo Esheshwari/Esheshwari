@@ -96,10 +96,13 @@
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 
+## GitHub Stats:
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Esheshwari&" alt="Esheshwari" /></p>
+![](https://github-readme-stats.vercel.app/api?username=Esheshwari&theme=gruvbox_light&hide_border=false)<br/>
 
+![](https://nirzak-streak-stats.vercel.app/?user=Esheshwari&theme=maroongold&hide_border=false)<br/>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Esheshwari&theme=blue-green&hide_border=false&layout=compact)
 
 
 <picture>
