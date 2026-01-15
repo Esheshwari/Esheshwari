@@ -104,11 +104,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Esheshwari&theme=blue-green&hide_border=false&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Esheshwari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
