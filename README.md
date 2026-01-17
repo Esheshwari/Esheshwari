@@ -19,7 +19,7 @@
   - Documented system architecture, authentication flow, and deployment setup  
 
 - <b>PWOA — Personal Workflow Optimization Assistant</b>  
-  - 🔗 https://github.com/Esheshwari/PWOA-PWOA  
+  - 🔗 https://github.com/Esheshwari/PWOA
   - Designed an **AI-powered workflow optimization assistant** using agent-based architecture  
   - Leveraged LLMs and analytics for intelligent task orchestration and productivity insights  
   - Focused on modular design, extensibility, and real-world usability  
