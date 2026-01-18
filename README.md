@@ -118,6 +118,6 @@
 
 
 [email]: esheshwarikumari@gmail.com
-[linkedin]: https://www.linkedin.com/in/msesheshwari/
+[linkedin]: https://www.linkedin.com/in/esheshwari/
 
 
