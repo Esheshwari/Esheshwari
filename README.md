@@ -97,17 +97,17 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
 
 <hr style="border: 1px solid #444; width: 80%; margin: 30px auto;" />
-<h2> Competitive Programming & Coding Profiles</h2>
+<h2> Competitive Programming Profiles</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/Esheshwari/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Esheshwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/profile/codewithesha" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-codewithesha-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://img.shields.io/badge/HackerRank-codewithesha-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
   </a>
   <a href="https://www.geeksforgeeks.org/profile/codewithesha" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-codewithesha-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+    <img src="https://img.shields.io/badge/GeeksforGeeks-codewithesha-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
 
@@ -117,9 +117,6 @@
   <img src="https://leetcard.jacoblin.cool/Esheshwari?theme=light&font=baloo&ext=heatmap" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esheshwari&theme=flat&margin-w=10&margin-h=10" />
-</p>
 
 
 
