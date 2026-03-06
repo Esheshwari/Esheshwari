@@ -117,11 +117,6 @@
   <img src="https://leetcard.jacoblin.cool/Esheshwari?theme=light&font=baloo&ext=heatmap" />
 </p>
 
-## GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Esheshwari&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-[![An image of @Esheshwari's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/Esheshwari)](https://holopin.io/@Esheshwari)
 
 
 
