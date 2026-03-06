@@ -119,8 +119,7 @@
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Esheshwari&theme=algolia&no-frame=true&no-bg=true&margin-w=8)
-
+![](https://github-profile-trophy.vercel.app/?username=Esheshwari&theme=radical&no-frame=true&no-bg=true&margin-w=6)
 
 
 
