@@ -2,7 +2,7 @@
 
 <h3>Hi, I'm Esheshwari Kumari!</h3>
 <p>
-  Computer Science Undergraduate · Software Developer · Data Science & Analytics Enthusiast
+  Computer Science Undergraduate · Businesswoman · Software Developer · Data Science & Analytics Enthusiast
 </p>
 
 > Building production-grade systems at the intersection of **software engineering and data**, with a focus on scalable APIs, secure architectures, and analytics-driven decision making.
