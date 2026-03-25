@@ -1,147 +1,193 @@
-## Hey There!
+<h1 align="center">ESHESHWARI KUMARI</h1>
 
-<h3>Hi, I'm Esheshwari Kumari!</h3>
-<p>
-  Computer Science Undergraduate · Businesswoman · Software Developer · Data Science & Analytics Enthusiast
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0B,50:1F1F1F,100:3A3A3A&height=200&section=header&text=Esheshwari%20Kumari&fontSize=42&fontColor=C9A66B&animation=fadeIn"/>
 </p>
 
-> Building production-grade systems at the intersection of **software engineering and data**, with a focus on scalable APIs, secure architectures, and analytics-driven decision making.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=2500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Businesswoman+%7C+Open+Source+Contributor;Software+Engineer+%7C+Data+Analyst;AI+%2F+ML+Specialist+%7C+System+Architect;Driving+Technology+%26+Business+Impact"/>
+</p>
 
 ---
 
-<h2>👨‍💻 Software Development Projects</h2>
+<h2 align="center">Executive Profile</h2>
 
-- <b>Zerodha Clone — Full-Stack Trading/Monitoring Platform (MERN)</b>  
-  - 🔗 https://github.com/Esheshwari/Zerodha-clone  
-  - Built a production-inspired trading platform with **JWT authentication**, protected routes, and a **data-driven dashboard**  
-  - Designed scalable **REST APIs** for users, orders, holdings, and positions  
-  - Integrated **CI/CD pipelines using GitHub Actions** for automated builds and validation  
-  - Documented system architecture, authentication flow, and deployment setup  
+<p align="center" style="max-width:750px;margin:auto;">
+Strategic technologist and business-oriented engineer with expertise across software engineering, data analytics, and artificial intelligence. Known for building scalable, high-performance systems and translating complex technical capabilities into real-world business value. Actively contributing to open source while architecting intelligent and production-grade digital solutions.
+</p>
 
-- <b>PWOA — Personal Workflow Optimization Assistant</b>  
-  - 🔗 https://github.com/Esheshwari/PWOA
-  - Designed an **AI-powered workflow optimization assistant** using agent-based architecture  
-  - Leveraged LLMs and analytics for intelligent task orchestration and productivity insights  
-  - Focused on modular design, extensibility, and real-world usability  
+---
 
+<h2 align="center">Core Expertise</h2>
 
-<h2> 💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-111111?style=for-the-badge&logo=code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-111111?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-111111?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/System%20Architecture-111111?style=for-the-badge&logo=server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20Strategy-111111?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</p>
 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+---
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.chartjs.org/media/logo-title.svg" style="display: inline-block;"><img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="realm" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://docs.amplify.aws/assets/logo-dark.svg" style="display: inline-block;"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://download.blender.org/branding/community/blender_community_badge_white.svg" style="display: inline-block;"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="42" height="42" /></a>
-<a target="_blank" href="https://api.iconify.design/logos-hugo.svg" style="display: inline-block;"><img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gridsome/gridsome-icon.svg" alt="gridsome" width="42" height="42" /></a>
-<a target="_blank" href="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" style="display: inline-block;"><img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/scullyio/scully/main/assets/logos/SVG/scullyio-icon.svg" alt="scully" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="42" height="42" /></a></p>
+<h2 align="center">Flagship Projects</h2>
 
-<hr style="border: 1px solid #444; width: 80%; margin: 30px auto;" />
-<h2> Competitive Programming Profiles</h2>
+<p align="center">
+<table>
+<tr>
+
+<td width="420px" align="center" style="background-color:#0F172A;padding:20px;border-radius:10px;">
+
+<h3 style="color:#F2C94C;letter-spacing:1px;">Zerodha Clone</h3>
+
+<div style="background:linear-gradient(90deg,#F2C94C,#F2994A);padding:20px;border-radius:6px;color:#000;font-weight:bold;">
+Trading Platform
+</div>
+
+<p style="color:#D1D5DB;">Full-stack trading platform with authentication, analytics dashboards, and scalable APIs.</p>
+
+<a href="https://github.com/Esheshwari/Zerodha-clone" target="_blank">
+<img src="https://img.shields.io/badge/Code-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-2F80ED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="420px" align="center" style="background-color:#0F172A;padding:20px;border-radius:10px;">
+
+<h3 style="color:#F2C94C;letter-spacing:1px;">PWOA</h3>
+
+<div style="background:linear-gradient(90deg,#F2C94C,#F2994A);padding:20px;border-radius:6px;color:#000;font-weight:bold;">
+AI Workflow System
+</div>
+
+<p style="color:#D1D5DB;">AI-powered workflow optimization platform using agent-based architecture and automation.</p>
+
+<a href="https://github.com/Esheshwari/PWOA" target="_blank">
+<img src="https://img.shields.io/badge/Code-FFFFFF?style=for-the-badge&logo=github&logoColor=000000"/>
+</a>
+
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/Live%20Demo-2F80ED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+</p>
+
+---
+
+<h2 align="center">Core Capabilities</h2>
+
+<p align="center">
+  <b>Software Engineering</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/JavaScript-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TypeScript-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Node.js-2F80ED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-2F80ED?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Data Analytics</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Visualization-27AE60?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-27AE60?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>AI / ML</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-EB5757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EB5757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-EB5757?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Systems-EB5757?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Business & Strategy</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Product%20Strategy-F2994A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Market%20Analysis-F2994A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Business%20Intelligence-F2994A?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <b>Open Source</b>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Git-GitHub-9B51E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Collaboration-9B51E0?style=for-the-badge"/>
+</p>
+
+---
+
+<h2 align="center">Performance & Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Esheshwari&show_icons=true&theme=dark&title_color=C9A66B&icon_color=C9A66B&text_color=E6C200&cache_seconds=1800"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esheshwari&theme=dark&ring=C9A66B&fire=E6C200"/>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/esheshwari/">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">Profiles</h2>
 
 <p align="center">
   <a href="https://leetcode.com/u/Esheshwari/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Esheshwari-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFFFFF?style=for-the-badge&logo=leetcode&logoColor=000000"/>
   </a>
   <a href="https://www.hackerrank.com/profile/codewithesha" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-codewithesha-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
+    <img src="https://img.shields.io/badge/HackerRank-FFFFFF?style=for-the-badge&logo=hackerrank&logoColor=000000"/>
   </a>
-  <a href="https://www.geeksforgeeks.org/profile/codewithesha" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-codewithesha-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://www.geeksforgeeks.org/user/codewithesha/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-FFFFFF?style=for-the-badge&logo=geeksforgeeks&logoColor=000000"/>
   </a>
 </p>
 
-<br/>
+---
+
+<h2 align="center">Contact</h2>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Esheshwari?theme=light&font=baloo&ext=heatmap" />
+  <a href="mailto:esheshwarikumari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2F80ED?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/esheshwari/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-2F80ED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Engineering intelligent systems. Building scalable businesses. Creating measurable impact.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:C9A66B,50:E6C200,100:F2D16B&height=120&section=footer"/>
 </p>
 
 
 
 
-## GitHub Statistics
-
-![](https://github-readme-stats.vercel.app/api?username=Esheshwari&theme=gruvbox_light&hide_border=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Esheshwari&theme=maroongold&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Esheshwari&theme=blue-green&hide_border=false&layout=compact)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-
-<h2>  Connect with me</h2>
 
 
-[<img align="left" alt="Esheshwari Kumari | Email" width="22px" src="email%20logo.jpg" />](mailto:esheshwarikumari@gmail.com)
-[<img align="left" alt="Esheshwari Kumari | LinkedIn" width="22px" src="linkedin logo.png" />][linkedin]
 
 
-[email]: esheshwarikumari@gmail.com
-[linkedin]: https://www.linkedin.com/in/esheshwari/
 
 
