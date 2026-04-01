@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- ANIME BANNER - Waving Header with anime aesthetic -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a0533,60:2d1b69,100:0d0d2b&height=280&section=header&text=Esheshwari%20Kumari&fontSize=52&fontColor=e8b4f8&animation=fadeIn&fontAlignY=38&desc=✦%20Engineer%20·%20Builder%20·%20Dreamer%20✦&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a0533,60:2d1b69,100:0d0d2b&height=280&section=header&text=Esheshwari%20Kumari&fontSize=52&fontColor=e8b4f8&animation=fadeIn&fontAlignY=38&desc=Engineer%20%C2%B7%20Builder%20%C2%B7%20Dreamer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
-<!-- Animated Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=true&width=700&height=60&lines=%E2%9C%A8+Software+Engineer+%7C+AI+%2F+ML+Specialist+%7C+Data+Analyst+%E2%9C%A8;%F0%9F%8C%B8+Open+Source+Contributor+%7C+System+Architect+%7C+Businesswoman+%F0%9F%8C%B8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Software+Engineer+%7C+AI+%2F+ML+Specialist+%7C+Data+Analyst;Open+Source+Contributor+%7C+System+Architect+%7C+Businesswoman" alt="Typing SVG" />
 
 </div>
 
@@ -12,13 +10,11 @@
 
 <div align="center">
 
-<!-- ANIME GIRL WORKING ON COMPUTER GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340" alt="anime coding girl"/>
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="anime girl coding"/>
 
 <br/>
 
-<!-- ABOUT ME SECTION - CINEMATIC STORY -->
-### ✦ `< My Story />` ✦
+### `< My Story />`
 
 <br/>
 
@@ -28,17 +24,17 @@
 
 > **It started with a keyboard I wasn't supposed to touch.**
 >
-> Kindergarten. A bulky desktop in the corner of the house. While other kids played outside, I was sneaking clicks - fascinated by how a machine could *think*. I didn't know what code was. I just knew the screen felt like magic.
+> Kindergarten. A bulky desktop in the corner of the house. While other kids played outside, I was sneaking clicks — fascinated by how a machine could *think*. I didn't know what code was. I just knew the screen felt like magic.
 >
 > **Years passed. The curiosity never did.**
 >
-> Every CS class felt less like school and more like *finally speaking my language.* Late nights, tangled logic, bugs that broke everything - and me, stubbornly loving every second of it.
+> Every CS class felt less like school and more like *finally speaking my language.* Late nights, tangled logic, bugs that broke everything — and me, stubbornly loving every second of it.
 >
 > **Then came AI. And suddenly, the magic had a name.**
 >
-> Today I build trading platforms, AI workflow systems, and intelligent architectures - not just as an engineer, but as someone who genuinely believes **technology should feel like wonder.**
+> Today I build trading platforms, AI workflow systems, and intelligent architectures — not just as an engineer, but as someone who genuinely believes **technology should feel like wonder.**
 >
->  *The girl who used to stare at the screen? She now builds what's on it.*
+> *The girl who used to stare at the screen? She now builds what's on it.*
 
 </td>
 </tr>
@@ -50,12 +46,11 @@
 
 ---
 
-<!-- SKILLS SECTION -->
 <div align="center">
 
-##  `Skills & Arsenal` 
+## `Skills & Arsenal`
 
-<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="200" alt="anime studying"/>
+<img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="220" alt="anime girl studying"/>
 
 </div>
 
@@ -63,7 +58,7 @@
 <tr>
 <td align="center" width="50%">
 
-###  Software Engineering
+### Software Engineering
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nextjs,express&theme=dark&perline=3" />
 
@@ -75,7 +70,7 @@
 </td>
 <td align="center" width="50%">
 
-###  Data & Analytics
+### Data & Analytics
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&theme=dark&perline=4" />
 
@@ -89,7 +84,7 @@
 <tr>
 <td align="center" width="50%">
 
-###  AI / ML
+### AI / ML
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=4" />
 
@@ -101,7 +96,7 @@
 </td>
 <td align="center" width="50%">
 
-###  Tools & DevOps
+### Tools & DevOps
 
 <img src="https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark&perline=4" />
 
@@ -116,12 +111,11 @@
 
 ---
 
-<!-- PROJECTS SECTION -->
 <div align="center">
 
-##  Flagship Projects 
+## `Flagship Projects`
 
-<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="200" alt="coding anime"/>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="220" alt="anime girl at laptop"/>
 
 </div>
 
@@ -131,37 +125,37 @@
 
 <td width="48%" align="center">
 
-###  Zerodha Clone
+### Zerodha Clone
 
-[![Zerodha](https://img.shields.io/badge/🚀_Trading_Platform-0d0d2b?style=for-the-badge&labelColor=7c3aed)](https://github.com/Esheshwari/Zerodha-clone)
+[![Zerodha](https://img.shields.io/badge/Trading_Platform-0d0d2b?style=for-the-badge&labelColor=7c3aed)](https://github.com/Esheshwari/Zerodha-clone)
 
 ```
- Full-stack trading platform
- Authentication & analytics
- Scalable APIs & dashboards
- Real-time market simulation
+Full-stack trading platform
+Authentication & analytics
+Scalable APIs & dashboards
+Real-time market simulation
 ```
 
-[![Code](https://img.shields.io/badge/⚡_View_Code-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esheshwari/Zerodha-clone)
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/View_Code-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esheshwari/Zerodha-clone)
+[![Demo](https://img.shields.io/badge/Live_Demo-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
 
 <td width="48%" align="center">
 
-###  PWOA
+### PWOA
 
-[![PWOA](https://img.shields.io/badge/🧠_AI_Workflow_System-0d0d2b?style=for-the-badge&labelColor=be185d)](https://github.com/Esheshwari/PWOA)
+[![PWOA](https://img.shields.io/badge/AI_Workflow_System-0d0d2b?style=for-the-badge&labelColor=be185d)](https://github.com/Esheshwari/PWOA)
 
 ```
-🤖 Agent-based architecture
-⚡ Automation workflows
-🔄 Intelligent orchestration
-🧩 Production-grade AI system
+Agent-based architecture
+Automation workflows
+Intelligent orchestration
+Production-grade AI system
 ```
 
-[![Code](https://img.shields.io/badge/⚡_View_Code-be185d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esheshwari/PWOA)
-[![Demo](https://img.shields.io/badge/🌐_Live_Demo-db2777?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![Code](https://img.shields.io/badge/View_Code-be185d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esheshwari/PWOA)
+[![Demo](https://img.shields.io/badge/Live_Demo-db2777?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </td>
 
@@ -171,24 +165,27 @@
 
 ---
 
-<!-- GITHUB STATS -->
 <div align="center">
 
-##  Trophy Cabinet 
+## `Trophy Cabinet`
 
-<!-- no-bg=true hides empty slots cleanly, column=7 fits all earned trophies in one row -->
 <img src="https://github-profile-trophy.vercel.app/?username=Esheshwari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-<!-- GITHUB STATS -->
 <div align="center">
 
-##  GitHub Universe 
+## `GitHub Universe`
 
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="220" alt="anime girl at desk"/>
 
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Esheshwari&show_icons=true&theme=tokyonight&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d0d2b&border_color=7c3aed&border_radius=15&hide_border=false&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esheshwari&layout=compact&theme=tokyonight&title_color=c084fc&text_color=e2e8f0&bg_color=0d0d2b&border_color=7c3aed&border_radius=15&hide_border=false" height="180"/>
 
 <br/>
 
@@ -202,18 +199,17 @@
 
 ---
 
-<!-- CODING PROFILES -->
 <div align="center">
 
-## Coding Profiles 
+## `Coding Profiles`
 
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="200" alt="anime thinking"/>
+<img src="https://user-images.githubusercontent.com/74038190/212744287-3d4ee7e0-8807-4daa-8cbb-6a4ade9dd8d9.gif" width="220" alt="anime girl floating"/>
 
 <br/><br/>
 
-[![LeetCode](https://img.shields.io/badge/⚔️_LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Esheshwari/)
-[![HackerRank](https://img.shields.io/badge/🌿_HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/codewithesha)
-[![GeeksForGeeks](https://img.shields.io/badge/🌱_GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/codewithesha/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/Esheshwari/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/profile/codewithesha)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/codewithesha/)
 
 <br/>
 
@@ -223,39 +219,36 @@
 
 ---
 
-<!-- CONTACT SECTION -->
 <div align="center">
 
-##  Let's Connect 
+## `Let's Connect`
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="180" alt="anime waving"/>
-
-<br/><br/>
-
-> *"Code is poetry. Let's write something beautiful together."* 🌸
-
-<br/>
-
-[![Gmail](https://img.shields.io/badge/📧_esheshwarikumari@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esheshwarikumari@gmail.com)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/🔗_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esheshwari/)
-[![GitHub](https://img.shields.io/badge/🐙_Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esheshwari)
+<img src="https://user-images.githubusercontent.com/74038190/212744630-5c6f11d3-a12f-4609-ac22-0f6b7a1df04d.gif" width="220" alt="anime girl waving"/>
 
 <br/><br/>
 
-<!-- VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=Esheshwari&label=✨+Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
+> *"Code is poetry. Let's write something beautiful together."*
+
+<br/>
+
+[![Gmail](https://img.shields.io/badge/esheshwarikumari@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:esheshwarikumari@gmail.com)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esheshwari/)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Esheshwari)
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Esheshwari&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
 ---
 
-<!-- SNAKE ANIMATION -->
 <div align="center">
 
-## 🐍 Contribution Snake 🐍
+## `Contribution Snake`
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Esheshwari/Esheshwari/output/github-snake-dark.svg" />
@@ -269,13 +262,11 @@
 
 <div align="center">
 
-<!-- FOOTER QUOTE -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 
 <br/><br/>
 
-<!-- ANIME FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a0533,60:2d1b69,100:0d0d2b&height=150&section=footer&text=Engineering%20Intelligent%20Systems%20✨&fontSize=22&fontColor=c084fc&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a0533,60:2d1b69,100:0d0d2b&height=150&section=footer&text=Engineering%20Intelligent%20Systems&fontSize=22&fontColor=c084fc&animation=twinkling&fontAlignY=65"/>
 
 </div>
 
