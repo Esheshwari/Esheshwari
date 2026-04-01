@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a0533,60:2d1b69,100:0d0d2b&height=280&section=header&text=Esheshwari%20Kumari&fontSize=52&fontColor=e8b4f8&animation=fadeIn&fontAlignY=38&desc=Engineer%20%C2%B7%20Builder%20%C2%B7%20Dreamer&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,30:1a0533,60:2d1b69,100:0d0d2b&height=280&section=header&text=Esheshwari%20Kumari&fontSize=52&fontColor=e8b4f8&animation=fadeIn&fontAlignY=38&desc=Build%20%C2%B7%20Scale%20%C2%B7%20Win&descAlignY=58&descSize=18&descColor=a78bfa" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=16&duration=3000&pause=800&color=C084FC&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Software+Engineer+%7C+AI+%2F+ML+Specialist+%7C+Data+Analyst;Open+Source+Contributor+%7C+System+Architect+%7C+Businesswoman" alt="Typing SVG" />
 
@@ -10,7 +10,9 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="360" alt="anime girl coding"/>
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="360"/>
+
 
 <br/>
 
