@@ -181,15 +181,6 @@ Production-grade AI system
 
 ## `GitHub Universe`
 
-<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="220" alt="anime girl at desk"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Esheshwari&show_icons=true&theme=tokyonight&title_color=c084fc&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d0d2b&border_color=7c3aed&border_radius=15&hide_border=false&count_private=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esheshwari&layout=compact&theme=tokyonight&title_color=c084fc&text_color=e2e8f0&bg_color=0d0d2b&border_color=7c3aed&border_radius=15&hide_border=false" height="180"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Esheshwari&theme=tokyonight&ring=c084fc&fire=f472b6&currStreakLabel=a78bfa&background=0d0d2b&border=7c3aed&stroke=7c3aed&sideLabels=e2e8f0&currStreakNum=f472b6&dates=94a3b8&sideNums=c084fc" height="180"/>
 
